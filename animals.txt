@@ -3,4 +3,5 @@ cat
 mice
 cow
 rabbit
+tiger
 lion
